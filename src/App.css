@@ -47,6 +47,14 @@
   width: 100%;
   top: 0;
   left: 0;
-  background-color: lightgreen;
+  background-size: cover;
   z-index: 1;
+}
+
+.char-model {
+
+}
+
+.char-name {
+
 }
